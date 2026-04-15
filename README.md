@@ -1,3 +1,6 @@
+Integrantes:
+Amanda Acosta de Andrade - 1956912
+Davi Pelloso - 1976516
 # MQTT: Last Will Testament (LWT) e Retain Flag
 
 Este repositório contém explicações e exemplos práticos dos conceitos de **Last Will Testament (LWT)** e **Retain Flag** no protocolo MQTT.
